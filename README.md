@@ -157,3 +157,51 @@ EC2 | S3 | IAM | VPC | Lambda | CloudWatch | ELB | RDS | CloudFront
 
 ---
 
+---
+
+<h2>🚀 Learning Roadmap & Future Projects</h2>
+
+<h3>☁️ Cloud & Infrastructure Automation</h3>
+
+- [x] AWS Core Services
+- [x] AWS EC2, S3, IAM, VPC
+- [x] AWS Lambda & CloudWatch
+- [x] Terraform Fundamentals
+- [ ] Advanced Terraform Modules
+- [ ] Remote State Management & Workspaces
+- [ ] Terraform CI/CD Automation
+- [ ] Multi-Environment Infrastructure Provisioning
+
+<h3>⚙️ DevOps & Container Orchestration</h3>
+
+- [x] Git & GitHub
+- [x] Jenkins CI/CD
+- [x] Docker Fundamentals
+- [ ] Advanced Kubernetes
+- [ ] Helm Charts
+- [ ] Kubernetes Monitoring
+- [ ] GitOps with Argo CD
+- [ ] Prometheus & Grafana
+
+<h3>🤖 AI-Powered DevOps Projects</h3>
+
+- [ ] AI-Based CI/CD Pipeline Failure Analysis
+- [ ] AI-Powered Log Analysis & Error Detection
+- [ ] Intelligent Infrastructure Monitoring
+- [ ] AI-Assisted Cloud Cost Optimization
+- [ ] Automated Incident Detection & Root Cause Analysis
+- [ ] AI Chatbot for DevOps Troubleshooting
+
+<h3>💡 Future Hands-on Projects</h3>
+
+| Project | Technologies |
+|---|---|
+| Multi-Environment AWS Infrastructure | AWS, Terraform |
+| Reusable Terraform Modules | Terraform, AWS |
+| Automated Kubernetes Deployment | Docker, Kubernetes, Helm |
+| AI CI/CD Failure Analyzer | Python, Jenkins, AI API |
+| AI Log Monitoring Assistant | Python, CloudWatch, AI |
+| Cloud Cost Optimization Assistant | AWS, Python, AI |
+
+---
+
