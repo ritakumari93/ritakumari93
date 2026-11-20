@@ -159,7 +159,7 @@ EC2 | S3 | IAM | VPC | Lambda | CloudWatch | ELB | RDS | CloudFront
 
 ---
 
-<h2>🚀 Learning Roadmap & Future Projects</h2>
+<h2>🚀 Technical Expertise & Areas of Focus</h2>
 
 <h3>☁️ Cloud & Infrastructure Automation</h3>
 
