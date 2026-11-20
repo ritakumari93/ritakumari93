@@ -183,25 +183,39 @@ EC2 | S3 | IAM | VPC | Lambda | CloudWatch | ELB | RDS | CloudFront
 - [ ] GitOps with Argo CD
 - [ ] Prometheus & Grafana
 
-<h3>🤖 AI-Powered DevOps Projects</h3>
 
-- [ ] AI-Based CI/CD Pipeline Failure Analysis
-- [ ] AI-Powered Log Analysis & Error Detection
-- [ ] Intelligent Infrastructure Monitoring
-- [ ] AI-Assisted Cloud Cost Optimization
-- [ ] Automated Incident Detection & Root Cause Analysis
-- [ ] AI Chatbot for DevOps Troubleshooting
+---
 
-<h3>💡 Future Hands-on Projects</h3>
+<h2>🚀 Technical Expertise & Continuous Improvement</h2>
 
-| Project | Technologies |
-|---|---|
-| Multi-Environment AWS Infrastructure | AWS, Terraform |
-| Reusable Terraform Modules | Terraform, AWS |
-| Automated Kubernetes Deployment | Docker, Kubernetes, Helm |
-| AI CI/CD Failure Analyzer | Python, Jenkins, AI API |
-| AI Log Monitoring Assistant | Python, CloudWatch, AI |
-| Cloud Cost Optimization Assistant | AWS, Python, AI |
+<h3>☁️ Cloud & Infrastructure Automation</h3>
+
+- AWS Cloud Services (EC2, S3, IAM, VPC, Lambda, RDS)
+- Terraform Infrastructure as Code
+- Terraform Modules & Reusable Configurations
+- Remote State Management & Workspaces
+- Multi-Environment Infrastructure Provisioning
+
+<h3>⚙️ DevOps & Container Orchestration</h3>
+
+- Git & GitHub
+- Jenkins CI/CD Pipelines
+- Docker Containerization
+- Kubernetes Deployments & Services
+- Linux Administration & Shell Scripting
+- Prometheus & Grafana Monitoring
+
+<h3>🤖 AI & Intelligent DevOps Automation</h3>
+
+- AI-Assisted CI/CD Pipeline Analysis
+- Intelligent Log Analysis & Error Detection
+- AI-Powered Infrastructure Monitoring
+- Cloud Cost Optimization
+- Automated Incident Analysis & Troubleshooting
+
+<h3>🛠️ Technology Stack</h3>
+
+AWS | Terraform | Jenkins | Docker | Kubernetes | Linux | Python | AI | Prometheus | Grafana
 
 ---
 
