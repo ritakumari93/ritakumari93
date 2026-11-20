@@ -57,3 +57,103 @@ infrastructure and deployment challenges.
 
 EC2 | S3 | IAM | VPC | Lambda | CloudWatch | ELB | RDS | CloudFront
 
+
+
+---
+
+<h2>🚀 Featured AWS & DevOps Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>☁️ AWS Lambda Image Resizing</h3>
+
+<b>Technologies:</b> AWS Lambda, S3, Terraform, IAM
+
+- Automated image processing.
+- S3 event-triggered Lambda execution.
+- Infrastructure provisioning using Terraform.
+
+</td>
+<td width="50%">
+
+<h3>⚙️ Jenkins CI/CD Pipeline</h3>
+
+<b>Technologies:</b> Jenkins, GitHub, Maven, Java
+
+- Integrated GitHub with Jenkins.
+- Automated Maven build process.
+- Generated application artifacts.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🏗️ AWS Infrastructure Automation</h3>
+
+<b>Technologies:</b> AWS, Terraform, EC2, VPC
+
+- Infrastructure provisioning.
+- AWS networking configuration.
+- Resource management using Terraform.
+
+</td>
+<td width="50%">
+
+<h3>🐳 Containerization & Kubernetes</h3>
+
+<b>Technologies:</b> Docker, Kubernetes, Linux
+
+- Container image management.
+- Kubernetes deployments.
+- Pod and service troubleshooting.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🌐 AWS Static Website Hosting</h3>
+
+<b>Technologies:</b> S3, CloudFront, IAM
+
+- Static website hosting.
+- CloudFront distribution.
+- Secure content delivery.
+
+</td>
+<td width="50%">
+
+<h3>🖥️ Nginx Server Deployment</h3>
+
+<b>Technologies:</b> EC2, Linux, Nginx, ALB
+
+- Nginx installation and configuration.
+- Application deployment.
+- Load balancer health checks.
+
+</td>
+</tr>
+</table>
+
+---
+
+
+<h2>📚 Learning & Growth</h2>
+
+| Technology | Focus Area |
+|---|---|
+| AWS | Cloud Infrastructure & Automation |
+| Terraform | Infrastructure as Code |
+| Jenkins | CI/CD Pipeline Automation |
+| Docker | Containerization |
+| Kubernetes | Container Orchestration |
+| Linux | Administration & Troubleshooting |
+| Prometheus & Grafana | Monitoring & Observability |
+
+---
+
